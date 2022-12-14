@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <UserCard photo_path="../../src/assets/img/70.jpg" nick-name="romashka" Nsn="Иванов Иван" Tn="Иванович" address="Москва" email="example.every@gmail.com" phone-number="+79077776655"/>
 </template>
 
 <script>
